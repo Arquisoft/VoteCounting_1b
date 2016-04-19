@@ -15,6 +15,7 @@ BinTray
 [ ![Download](https://api.bintray.com/packages/rotura/arquisoft/VoteCounting_1b/images/download.svg) ](https://bintray.com/rotura/arquisoft/VoteCounting_1b/_latestVersion)
 
 App sobre la nube:
+
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](
 https://votevounting1b.herokuapp.com/)
 
